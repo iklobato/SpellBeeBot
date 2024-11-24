@@ -2,6 +2,12 @@
 
 An automated solver for the SpellBee.org unlimited game using Playwright for browser automation and Python.
 
+
+
+https://github.com/user-attachments/assets/86840778-9882-4fdf-a745-7bb41879c182
+
+
+
 ## Description
 
 This script automatically solves the Spelling Bee puzzle on SpellBee.org by:
